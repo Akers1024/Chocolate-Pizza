@@ -1,0 +1,56 @@
+*{
+    outline: dotted 1px red;
+}
+
+header, h2{
+    font-family: 'Srisakdi', cursive;
+}
+.first {
+    width: 960px;
+    margin: 0 auto;
+}
+.second {
+    width: 960px;
+    margin: 0 auto;
+}
+.spacer{
+    width: 960px;
+    margin: 0 auto;
+}
+
+#boldest {
+    font-weight: bold;
+}
+
+#date {
+    font-size: 10;
+}
+.choconess {
+    float: left;
+    margin-right: 100px;
+    margin-top: 15px;
+}
+.for_later {
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+#pp {
+    float: left;
+}
+#pr {
+    margin-top: 15px;
+}
+.clearfix {
+    clear: both;
+}
+img {
+    margin-top: 20px;
+}
+.instructions p {
+    text-indent: 20px;
+    font-size: 16pt;
+    line-height: 15px;
+    width: 960px;
+    margin: 20 auto;
+}
