@@ -1,10 +1,79 @@
 *{
     outline: dotted 1px red;
 }
+/*evan stuff */
 
+main {
+    width: 960px;
+    margin: 30px auto;
+}
+
+header, section {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.large, h2 {
+    position: absolute;
+    font-family: 'Srisakdi', cursive;
+    font-size: xx-large;
+    right: 964px;
+    top: -10px;
+}
+
+.xxSmall {
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-small;
+    right:  933px;
+    top: 39px;
+    
+}
+
+
+
+.clearfix{
+    clear: both;
+  }
+.spacer{
+    position: absolute;
+ 	top: 95px;
+    margin-right: 0px;
+    
+}
+
+.logo {
+    display: inline-block;
+    float: left;
+    margin-top: -7px;
+}
+
+header li {
+   display: inline-block;
+  
+}
+
+header ul {
+    float: right;
+    margin-right: 60px;
+    margin-top: 0px;
+}
+
+#wifi {
+    margin-left: 15px;
+}
+
+
+.recList {
+    display: inline-block;
+    margin-top: 710px;
+}
+
+
+/* becky stuff 
 header, h2{
     font-family: 'Srisakdi', cursive;
-}
+} */
 .first {
     width: 960px;
     margin: 0 auto;
@@ -54,4 +123,3 @@ img {
     width: 960px;
     margin: 20 auto;
 }
-/* this is a comment */
