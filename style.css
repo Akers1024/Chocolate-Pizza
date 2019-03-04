@@ -1,25 +1,20 @@
 
-* {
-    outline: dotted 1px blue
-}
 
 
 
 
 body {
     max-width: 960px;
-    border: solid 1px black;
+    
     margin: auto;
 }
 
 
 main {
-   
-    margin: 30px auto;
+   margin: 5px;
 }
 
 header, section {
-    
     margin: 0 auto;
 }
 
@@ -27,8 +22,8 @@ header, section {
     position: absolute;
     font-family: 'Srisakdi', cursive;
     font-size: xx-large;
-    right: 937px;
-    top: 0px;
+    right: 70%;
+    top: -8px;
 }
 
 .xxSmall {
@@ -57,7 +52,7 @@ header, section {
 .logo {
     display: inline-block;
     float: left;
-    margin-top: -14%;
+    margin-top: -15%;
     padding: 30px;
     
 }
@@ -121,19 +116,15 @@ p {
 }
 
 
-.instructions {
-    text-align: left;
-     margin-right: 100px; 
-    width: 960px;
-    margin-left: -39px;
-}
-
-.instructions ul {
-    list-style-type: none;
+.sea {
+    margin-top: -3%;
 }
 
 
-.instructions li {
+
+
+
+.sea li {
     list-style-type: none;
     margin-top: 20px;
     text-indent: 41px;
@@ -144,12 +135,82 @@ p {
     margin-top: 20px;
 }
 
-
-
-
-
-
-.recList {
+.hawks {
     display: inline-block;
-    margin-top: 710px;
+    margin-top: 1%;
+    /* text-align: center; */
+    margin-left: 3%;
 }
+
+
+.left li {
+    list-style-type: square;
+    
+}
+
+
+.end {
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+.girl {
+    margin-top: 4%;
+    margin-left: 3%;
+}
+
+
+.name {
+    display: block; */
+    /* margin-top: -22%; */
+    margin-bottom: 44px;
+    margin-top: -6%;
+    /* top: -55%; */
+    margin-left: 11%;
+}
+
+
+#last {
+    margin-top: 0%;
+    margin-left: 11%;
+    margin-right: 25%;
+    font-size: larger;
+}
+
+button {
+    margin-left: 79%;
+    margin-top: -7%;
+    background-color: black;
+    color: white;
+}
+
+
+#forkL {
+    margin-right: 20%;
+    margin-left: 3%;
+    margin-top: -14%;
+}
+
+
+#bottomLogo {
+    margin-left: 42%;
+    margin-top: -15%;
+}
+
+
+#topPara {
+    margin-top: -10%;
+    margin-right: 48%;
+}
+
+#bottomPara {
+    margin-top: -8%;
+    margin-right: 50%;
+}
+
+footer {
+    margin-top: 20%;
+}
+
+
+
